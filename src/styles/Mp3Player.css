@@ -1,0 +1,36 @@
+.mp3-player {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex; /* Add flex display */
+    align-items: center; /* Align items vertically in the center */
+    background: #fff;
+    border-top-right-radius: 5px;
+    z-index: 9999;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+  
+  .expanded {
+    width: 18rem;
+    justify-content: space-between; /* Add space between elements */
+    padding: 10px; /* Add padding for better spacing */
+  }
+  
+  .collapsed {
+    width: 2rem;
+    justify-content: center; /* Center the elements */
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .mp3-player button {
+    margin-right: 10px; /* Add margin between the buttons and other elements */
+  }
+  
+  .mp3-player input {
+    width: 100%;
+    margin: 10px 0; /* Add margin top and bottom for better spacing */
+  }
+  

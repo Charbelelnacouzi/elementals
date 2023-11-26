@@ -16,7 +16,7 @@ const Page = () => {
                 <div style={{ flex: "1", padding: "40px" }}>
                     <h1
                         style={{
-                            fontSize: "200px",
+                            fontSize: "150px",
                             marginBottom: "20px",
                             fontFamily: "Kanit",
                             color: "white",

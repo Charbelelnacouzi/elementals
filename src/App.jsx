@@ -7,8 +7,9 @@ import Page2 from "./Page2";
 import Page3 from "./Page3";
 import Page4 from "./Page4";
 import Page5 from "./Page5";
-
+import Page6 from "./Page6";
 import Mp3Player from "./components/Mp3Player";
+
 
 const App = () => {
     return (
@@ -44,6 +45,12 @@ const App = () => {
                 >
                        <Page3 />
                 </section>
+                <section
+                    className="page-long"
+                    style={{ borderBottom: "2px solid white" }}
+                >
+                    <Page6 />
+                </section> 
                 <section
                     className="page"
                     style={{ borderBottom: "2px solid white" }}

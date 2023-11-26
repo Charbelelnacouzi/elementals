@@ -43,7 +43,7 @@ const Page1 = () => {
                     <div
                         style={{
                             flex: "1 0 calc(50% - 20%)",
-                            backgroundImage: 'url("/image2.png")',
+                            backgroundImage: 'url("/image6.jpg")',
                             backgroundRepeat: "no-repeat",
                             backgroundSize: "cover",
                             backgroundPosition: "left",

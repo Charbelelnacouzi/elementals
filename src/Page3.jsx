@@ -31,7 +31,7 @@ const Page3 = () => {
                     <h1
                         style={{
                             fontFamily: "Kanit",
-                            fontSize: "24px",
+                            fontSize: "25px",
                             margin: "1rem 0",
                             color: "white",
                         }}
@@ -48,38 +48,49 @@ const Page3 = () => {
                         >
                     
 
-                            <p style={{ textAlign: "left" }}>
-                            🔷Tweet to earn $ELMNT
-                            </p>
-                            <p style={{ textAlign: "left" }}>
-                                🔹Earn $ELMNT per tweet, 1 per day for public, 2 for holders.</p>
+                    <p style={{ textAlign: "left",
+                        fontSize: "21px" }}>
+                            🔷Tweet to earn </p>
 
-                                <p style={{ textAlign: "left" }}>🔷Marketplace and Spin the wheel.</p>
+                            <li style={{ textAlign: "left",
+                                        fontSize: "18" }}>
+                            Earn $ELMNT by tweeting once per day for public and twice for holders.</li>
 
-                                <p style={{ textAlign: "left" }}>🔹Spent $ELMNT to spin the wheel for NFTs/Sol prizes, You can also win our 1/1's in the wheel.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Marketplace and Spin the wheel</p>
 
-                                <p style={{ textAlign: "left" }}>🔹You will be able to buy our WL/OG spots via our marketplace using $ELMNT earned, Holders will be able to swap them for NFTs/Sol or products.</p>
+                                <li style={{ textAlign: "left" }}>Spend $ELMNT to spin the wheel for NFTs/Sol prizes, You can also win our 1/1's in the wheel.</li>
 
-                                <p style={{ textAlign: "left" }}>🔷PFP Staking.</p>
+                                <li style={{ textAlign: "left" }}>Spend $ELMNT to buy NFTs and products on our marketplace.</li>
+                                   
+                
 
-                                <p style={{ textAlign: "left" }}>🔹Stake your PFP on X and Earn $ELMNT Daily representing your favorite project.</p>
 
-                                <p style={{ textAlign: "left" }}>🔷Casino.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷PFP Staking.</p>
 
-                                <p style={{ textAlign: "left" }}>🔹40% up to 80% will be giving out as revenue share from the casino profits.</p>
+                                <li style={{ textAlign: "left" }}>Stake your PFP on X and Earn $ELMNT Daily representing your favorite project.</li>
 
-                                <p style={{ textAlign: "left" }}>🔷Mobile App.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Casino.</p>
 
-                                <p style={{ textAlign: "left" }}>🔹Build a mobile app, That's a big move to go wider and our holders can receive notifications once it's been 24 hours so they can tweet again.</p>
+                                <li style={{ textAlign: "left" }}>40% up to 80% will be giving out as revenue share from the casino profits.</li>
 
-                                <p style={{ textAlign: "left" }}>🔷Expand to other social media like Instagram, Facebook etc...</p>
-                                <p style={{ textAlign: "left" }}>🔹Post about us on Instagram or facebook etc... and earn points.</p>
-                                <p style={{ textAlign: "left" }}>🔹Convert web2 people to web3.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Mobile App.</p>
 
-                                <p style={{ textAlign: "left" }}>🔷Paid advertisements (Tweet/Post about other projects, Companies on all social media platforms).</p>
+                                <li style={{ textAlign: "left" }}>Build a mobile app, That's a big move to go wider and our holders can receive notifications once it's been 24 hours so they can tweet again.</li>
 
-                                <p style={{ textAlign: "left" }}>🔹Web3 projects, Web2 companies basically at this point anyone will pay us for advertisements, Our holders will receive a notification to tweet or post about them on different social media and earn $ELMNT in the process to convert into sol or NFT's and products in our marketplace.
-                            </p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Expand to other social media like Instagram, Facebook etc...</p>
+                                <li style={{ textAlign: "left" }}>Post about us on Instagram or facebook etc... and earn points.</li>
+                                <li style={{ textAlign: "left" }}>Convert web2 people to web3.</li>
+
+                                <p style={{ textAlign: "left",
+                                            fontSize:"21px" }}>🔷Paid advertisements (Tweet/Post about other projects, Companies on all social media platforms).</p>
+
+                                <li style={{ textAlign: "left" }}>Web3 projects, Web2 companies basically at this point anyone will pay us for advertisements, Our holders will receive a notification to tweet or post about them on different social media and earn $ELMNT in the process to convert into sol or NFT's and products in our marketplace.
+                            </li>
                         </div>
                     </div>
                     <div
@@ -98,6 +109,7 @@ const Page3 = () => {
                         display: "flex",
                         alignItems: "center",
                         textAlign: "center",
+                        fontSize: "19px"
                     }}
                 >
                     <div style={{ flex: 1 }}>
@@ -111,38 +123,48 @@ const Page3 = () => {
                             }}
                         >
 
-                            <p style={{ textAlign: "left" }}>
-                            🔷Tweet to earn $ELMNT</p>
+                            <p style={{ textAlign: "left",
+                        fontSize: "21px" }}>
+                            🔷Tweet to earn </p>
 
-                            <p style={{ textAlign: "left" }}>
-                                🔹Earn $ELMNT per tweet, 1 per day for public, 2 for holders.</p>
+                            <li style={{ textAlign: "left" }}>
+                            Earn $ELMNT by tweeting once per day for public and twice for holders.</li>
 
-                                <p style={{ textAlign: "left" }}>🔷Marketplace and Spin the wheel.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Marketplace and Spin the wheel</p>
 
-                                <p style={{ textAlign: "left" }}>🔹Spent $ELMNT to spin the wheel for NFTs/Sol prizes, You can also win our 1/1's in the wheel.</p>
+                                <li style={{ textAlign: "left" }}>Spend $ELMNT to spin the wheel for NFTs/Sol prizes, You can also win our 1/1's in the wheel.</li>
 
-                                <p style={{ textAlign: "left" }}>🔹You will be able to buy our WL/OG spots via our marketplace using $ELMNT earned, Holders will be able to swap them for NFTs/Sol or products.</p>
+                                <li style={{ textAlign: "left" }}>Spend $ELMNT to buy NFTs and products on our marketplace.</li>
+                                   
+                
 
-                                <p style={{ textAlign: "left" }}>🔷PFP Staking.</p>
 
-                                <p style={{ textAlign: "left" }}>🔹Stake your PFP on X and Earn $ELMNT Daily representing your favorite project.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷PFP Staking.</p>
 
-                                <p style={{ textAlign: "left" }}>🔷Casino.</p>
+                                <li style={{ textAlign: "left" }}>Stake your PFP on X and Earn $ELMNT Daily representing your favorite project.</li>
 
-                                <p style={{ textAlign: "left" }}>🔹40% up to 80% will be giving out as revenue share from the casino profits.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Casino.</p>
 
-                                <p style={{ textAlign: "left" }}>🔷Mobile App.</p>
+                                <li style={{ textAlign: "left" }}>40% up to 80% will be giving out as revenue share from the casino profits.</li>
 
-                                <p style={{ textAlign: "left" }}>🔹Build a mobile app, That's a big move to go wider and our holders can receive notifications once it's been 24 hours so they can tweet again.</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Mobile App.</p>
 
-                                <p style={{ textAlign: "left" }}>🔷Expand to other social media like Instagram, Facebook etc...</p>
-                                <p style={{ textAlign: "left" }}>🔹Post about us on Instagram or facebook etc... and earn points.</p>
-                                <p style={{ textAlign: "left" }}>🔹Convert web2 people to web3.</p>
+                                <li style={{ textAlign: "left" }}>Build a mobile app, That's a big move to go wider and our holders can receive notifications once it's been 24 hours so they can tweet again.</li>
 
-                                <p style={{ textAlign: "left" }}>🔷Paid advertisements (Tweet/Post about other projects, Companies on all social media platforms).</p>
+                                <p style={{ textAlign: "left",
+                                            fontSize: "21px" }}>🔷Expand to other social media like Instagram, Facebook etc...</p>
+                                <li style={{ textAlign: "left" }}>Post about us on Instagram or facebook etc... and earn points.</li>
+                                <li style={{ textAlign: "left" }}>Convert web2 people to web3.</li>
 
-                                <p style={{ textAlign: "left" }}>🔹Web3 projects, Web2 companies basically at this point anyone will pay us for advertisements, Our holders will receive a notification to tweet or post about them on different social media and earn $ELMNT in the process to convert into sol or NFT's and products in our marketplace.
-                            </p>
+                                <p style={{ textAlign: "left",
+                                            fontSize:"21px" }}>🔷Paid advertisements (Tweet/Post about other projects, Companies on all social media platforms).</p>
+
+                                <li style={{ textAlign: "left" }}>Web3 projects, Web2 companies basically at this point anyone will pay us for advertisements, Our holders will receive a notification to tweet or post about them on different social media and earn $ELMNT in the process to convert into sol or NFT's and products in our marketplace.
+                            </li>
                         </div>
                     </div>
                     <div

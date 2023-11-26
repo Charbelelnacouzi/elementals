@@ -46,7 +46,7 @@ const App = () => {
                        <Page3 />
                 </section>
                 <section
-                    className="page-long"
+                    className="page"
                     style={{ borderBottom: "2px solid white" }}
                 >
                     <Page6 />

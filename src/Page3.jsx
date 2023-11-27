@@ -26,6 +26,7 @@ const Page3 = () => {
                         textAlign: "center",
                         padding: "1rem",
                         height: "140vh",
+                        color: "white",
                     }}
                 >
                     <h1

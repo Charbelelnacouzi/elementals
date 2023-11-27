@@ -46,7 +46,7 @@ const Page = () => {
             >
                 <h1
                     style={{
-                        fontSize: "200px",
+                        fontSize: "50px",
                         marginBottom: "20px",
                         fontFamily: "Kanit",
                         color: "white",

@@ -37,7 +37,7 @@ const Page6 = () => {
                     >
                         The elements airdrop
                     </h1>
-                    <div style={{ height: "120vh", overflow: "auto" }}>
+                    <div style={{ height: "90vh", overflow: "auto" }}>
                         <div
                             style={{
                                 fontFamily: "Kanit",

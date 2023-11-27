@@ -80,8 +80,7 @@ const Page6 = () => {
                                             fontSize:"21px" }}>🔷How to receive this airdrop.</p>
                                 <li style={{ textAlign: "left" }}>60% will go towards presales buyers.</li>
                                 <li style={{ textAlign: "left" }}>40% for top points on our tweet to earn and discord points leaderboard.</li>
-                                <p style={{ textAlign: "left",
-                                            fontSize:"21px" }}>The elements airdrop is 100% random you can receive any of them, Only future holders will be able to benefit from their rewards.</p>
+                                <li style={{ textAlign: "left" }}>The elements airdrop is 100% random you can receive any of them, Only future holders will be able to benefit from their rewards.</li>
                         
                         </div>
                         

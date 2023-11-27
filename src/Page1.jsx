@@ -68,17 +68,7 @@ const Page1 = () => {
                 </>
             ) : (
                 <>
-                    <div
-                        style={{
-                            flex: "1 0 100%",
-                            backgroundImage: 'url("/image3.png")',
-                            backgroundRepeat: "no-repeat",
-                            backgroundSize: "250% 100%",
-                            backgroundPosition: "left",
-                            zIndex: 1,
-                            opacity: 0.9, // Add opacity to the image
-                        }}
-                    ></div>
+                    
                     <div
                         style={{
                             position: "absolute",

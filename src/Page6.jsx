@@ -24,6 +24,7 @@ const Page6 = () => {
                         textAlign: "center",
                         padding: "1rem",
                         height: "140vh",
+                        color: "white",
                     }}
                 >
                     <h1
@@ -36,7 +37,7 @@ const Page6 = () => {
                     >
                         The elements airdrop
                     </h1>
-                    <div style={{ height: "80vh", overflow: "auto" }}>
+                    <div style={{ height: "120vh", overflow: "auto" }}>
                         <div
                             style={{
                                 fontFamily: "Kanit",

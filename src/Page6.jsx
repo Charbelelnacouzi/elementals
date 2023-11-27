@@ -71,10 +71,7 @@ const Page6 = () => {
 
                                 <li style={{ textAlign: "left" }}>Earth element will boost your $ELMNT staking rewards by x2.</li>
 
-                                <p style={{ textAlign: "left",
-                                            fontSize: "21px" }}>🔷Expand to other social media like Instagram, Facebook etc...</p>
-                                <li style={{ textAlign: "left" }}>Post about us on Instagram or facebook etc... and earn points.</li>
-                                <li style={{ textAlign: "left" }}>Convert web2 people to web3.</li>
+                
 
                                 <p style={{ textAlign: "left",
                                             fontSize:"21px" }}>🔷How to receive this airdrop.</p>
@@ -135,10 +132,7 @@ const Page6 = () => {
 
                                 <li style={{ textAlign: "left" }}>Earth element will boost your $ELMNT staking rewards by x2.</li>
 
-                                <p style={{ textAlign: "left",
-                                            fontSize: "21px" }}>🔷Expand to other social media like Instagram, Facebook etc...</p>
-                                <li style={{ textAlign: "left" }}>Post about us on Instagram or facebook etc... and earn points.</li>
-                                <li style={{ textAlign: "left" }}>Convert web2 people to web3.</li>
+                       
 
                                 <p style={{ textAlign: "left",
                                             fontSize:"21px" }}>🔷How to receive this airdrop.</p>

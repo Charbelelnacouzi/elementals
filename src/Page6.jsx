@@ -83,11 +83,13 @@ const Page6 = () => {
             };
         }, []);
         return (
+            
             <div
                     style={{
                         textAlign: "center",
                         padding: "1rem",
                         height: "140vh",
+                        overflow: "auto"
                     }}
                 >
                 <div style={{ flex: "1", padding: "40px" }}>
@@ -145,10 +147,13 @@ const Page6 = () => {
         );
     };
 
+        
+
     // Check if the viewport width is less than or equal to 768px (mobile view)
     const isMobileView = window.innerWidth <= 768;
 
     return isMobileView ? renderMobileView() : renderDesktopView();
 };
+
 
 export default Page6;

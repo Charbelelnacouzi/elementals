@@ -14,9 +14,10 @@ const Page = () => {
                     
                 }}
             >
-                <div style={{ flex: "1" }}>
+                <div style={{ flex: "1" , maxHeight: "90%",}}>
                 <img src="/Production.png"
                     alt="background"
+                    
                     width="100%"
                     display="flex"
                  />

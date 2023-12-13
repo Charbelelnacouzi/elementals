@@ -4,7 +4,7 @@
   overflow-x: auto; /* Enable horizontal scrolling */
   justify-content: center;
   align-items: flex-start;
-  min-height: 50vh;
+  min-height: 100vh;
   background: linear-gradient(135deg, #FFA500, #FF4500);
   font-family: "Kanit";
 }

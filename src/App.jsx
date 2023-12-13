@@ -52,14 +52,14 @@ const App = () => {
                     <Page6 />
                 </section> 
                 <section
-                    className="page"
+                    className="page-long"
                     style={{ borderBottom: "2px solid white" }}
                 >
                     <Page />
                 </section> 
               
                 <section
-                    className="page"
+                    className="page-long"
                     style={{ borderBottom: "2px solid white" }}
                 >
                     <Page4 />

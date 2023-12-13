@@ -13,7 +13,7 @@ const Page4 = () => {
         },
         {
             id:6,
-            name: "Co-founder(developper)",
+            name: "Co-founder (developper)",
             image: "/IMG5.png",
             text: "Asseph",
             twitterUrl:"",

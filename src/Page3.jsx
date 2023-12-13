@@ -39,7 +39,7 @@ const Page3 = () => {
                     >
                         Vision
                     </h1>
-                    <div style={{ height: "30vh", overflow: "auto" }}>
+                    <div style={{ height: "80vh", overflow: "auto" }}>
                         <div
                             style={{
                                 fontFamily: "Kanit",

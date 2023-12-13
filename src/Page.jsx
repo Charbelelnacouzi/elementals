@@ -5,27 +5,21 @@ const Page = () => {
         return (
             <div
                 style={{
-                    display: "flex",
-                    justifyContent: "center",
-                    alignItems: "center",
-                    minHeight: "100vh",
+                    position:"relative",
+                   
+                    justifyContent:"center",
+                    alignContent:"center",
+                  
                     background: "linear-gradient(135deg, #FFA500, #FF4500)",
-                    padding: "20px",
+                    
                 }}
             >
-                <div style={{ flex: "1", padding: "40px" }}>
-                    <h1
-                        style={{
-                            fontSize: "150px",
-                            marginBottom: "20px",
-                            fontFamily: "Kanit",
-                            color: "white",
-                            textAlign: "center",
-                            
-                        }}
-                    >
-                         tokenomics soon.
-                    </h1>
+                <div style={{ flex: "1" }}>
+                <img src="/Production.png"
+                    alt="background"
+                    width="1530px"
+                    display="flex"
+                 />
                     </div>
             </div>
         );
@@ -34,26 +28,23 @@ const Page = () => {
     const renderMobileView = () => {
         return (
             <div
-                style={{
-                    display: "flex",
-                    flexDirection: "column",
-                    justifyContent: "center",
-                    alignItems: "center",
-                    minHeight: "100vh",
-                    background: "linear-gradient(135deg, #FFA500, #FF4500)",
-                    padding: "20px",
-                }}
-            >
-                <h1
-                    style={{
-                        fontSize: "50px",
-                        marginBottom: "20px",
-                        fontFamily: "Kanit",
-                        color: "white",
-                    }}
-                >
-                    tokenomics soon.
-                </h1>
+            style={{
+                position:"relative",
+               
+                justifyContent:"center",
+                alignContent:"center",
+              
+                background: "linear-gradient(135deg, #FFA500, #FF4500)",
+                
+            }}
+        >
+            <div style={{ flex: "1" }}>
+            <img src="/Production.png"
+                alt="background"
+                width="380px"
+                display="flex"
+             />
+                </div>
                   </div>
           
         );

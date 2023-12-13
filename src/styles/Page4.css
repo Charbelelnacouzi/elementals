@@ -4,7 +4,7 @@
   overflow-x: auto; /* Enable horizontal scrolling */
   justify-content: center;
   align-items: flex-start;
-  min-height: 100vh;
+  min-height: 50vh;
   background: linear-gradient(135deg, #FFA500, #FF4500);
   font-family: "Kanit";
 }
@@ -15,6 +15,7 @@
   align-items: center;
   padding: 20px;
   margin: 20px;
+  
   color: black;
   background-color: linear-gradient(45deg, #FFA500, #FF4500);
   border-radius: 8px;
@@ -29,7 +30,7 @@
 }
 
 .role-photo {
-  width: 200px;
+  width: 120px;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;

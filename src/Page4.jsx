@@ -12,6 +12,22 @@ const Page4 = () => {
             catchphrase: "The coolest guy on the chain",
         },
         {
+            id:6,
+            name: "Co-founder(developper)",
+            image: "/IMG5.png",
+            text: "Asseph",
+            twitterUrl:"",
+            catchphrase: "That's easy done next?"
+        },
+        {
+            id: 7,
+            name: "Advisory team",
+            image: "/prnt.jpg",
+            text: "PRNT",
+            twitterUrl: "https://twitter.com/printonsol",
+            catchphrase:"Performance, Retention, Notability, Transparency."
+        },
+        {
             id: 2,
             name: "Artist",
             image: "/image2.jpg",

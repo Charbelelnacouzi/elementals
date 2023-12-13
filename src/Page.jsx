@@ -38,10 +38,11 @@ const Page = () => {
                 
             }}
         >
-            <div style={{ flex: "1" }}>
+            <div style={{ flex: "1", }}>
             <img src="/Production.png"
                 alt="background"
-                width="380px"
+            
+                width="100%"
                 display="flex"
              />
                 </div>

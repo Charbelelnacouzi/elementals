@@ -129,7 +129,7 @@ const Page4 = () => {
                         onClick={goToNextCard}
                         style={{ color: "white" }}
                     >
-                        
+                        &gt; 
                     </button>
                 </div>
             </div>

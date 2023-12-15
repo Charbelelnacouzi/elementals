@@ -174,7 +174,7 @@ const Page3 = () => {
                             paddingLeft: "20px",
                             marginLeft: "20px",
                             padding: "10px",
-                            marginTop: "5rem",
+                            marginTop: "8rem",
                         }}
                     >
                         <CharacterGallery />

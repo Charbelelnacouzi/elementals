@@ -31,7 +31,7 @@ const Page3 = () => {
                         height: "70vh",
                         overflowY: "auto",
                         marginBottom: "3rem",
-                        margintop:"8rem"
+                        margintop:"12rem"
                     }}
                 >
                     <h1

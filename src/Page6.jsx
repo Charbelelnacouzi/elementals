@@ -94,7 +94,7 @@ const Page6 = () => {
                         display: "flex",
                         alignItems: "center",
                         textAlign: "center",
-                        fontSize: "16px"
+                        fontSize: "19px"
                     }}
                 >
                     <div style={{ flex: 1 }}>

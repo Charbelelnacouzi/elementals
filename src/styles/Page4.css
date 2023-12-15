@@ -3,7 +3,7 @@
   flex-wrap: nowrap; /* Prevent wrapping to multiple rows */
   overflow-x: auto; /* Enable horizontal scrolling */
   justify-content: center;
-  align-items:self-start;
+  align-items:start;
   min-height: 150vh;
   background: linear-gradient(135deg, #FFA500, #FF4500);
   font-family: "Kanit";

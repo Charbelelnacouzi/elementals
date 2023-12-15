@@ -24,8 +24,8 @@ const Page3 = () => {
                 <div
                     style={{
                         textAlign: "center",
-                        padding: "7rem",
-                        height: "120vh",
+                        padding: "8rem",
+                        height: "90vh",
                         color: "white",
                     }}
                 >

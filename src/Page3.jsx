@@ -30,6 +30,8 @@ const Page3 = () => {
                         minHeight: "100vh",
                         background: "linear-gradient(135deg, #FFA500, #FF4500)",
                         padding: "20px",
+                        color:"white",
+                        paddingTop:"8rem",
                     }}
                 >
                     <h1

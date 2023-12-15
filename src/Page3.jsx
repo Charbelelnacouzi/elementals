@@ -27,7 +27,7 @@ const Page3 = () => {
                         flexDirection: "column",
                         justifyContent: "center",
                         alignItems: "center",
-                        minHeight: "100vh",
+                        minHeight: "80vh",
                         background: "linear-gradient(135deg, #FFA500, #FF4500)",
                         padding: "20px",
                         color:"white",

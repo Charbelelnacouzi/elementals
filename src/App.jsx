@@ -59,7 +59,7 @@ const App = () => {
                 </section> 
               
                 <section
-                    className="page"
+                    className="page-long1"
                     style={{ borderBottom: "2px solid white" }}
                 >
                     <Page4 />

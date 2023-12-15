@@ -103,7 +103,7 @@ const Page3 = () => {
                         style={{
                             paddingLeft: "20px",
                             margin: "1rem 0",
-                            padding: "5rem",
+                            padding: "1rem",
                         }}
                     >
                         <CharacterGallery style={{ width: "100px" }} />

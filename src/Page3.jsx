@@ -23,15 +23,13 @@ const Page3 = () => {
             {isMobile ? (
                 <div
                     style={{
-                        fontSize: "1.2rem",
-                        lineHeight: "1.6",
-                        color: "white",
-                        fontFamily: "Kanit",
-                        paddingRight: "1rem",
-                        height: "70vh",
-                        overflowY: "auto",
-                        marginBottom: "3rem",
-                        margintop:"12rem"
+                        display: "flex",
+                        flexDirection: "column",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        minHeight: "100vh",
+                        background: "linear-gradient(135deg, #FFA500, #FF4500)",
+                        padding: "20px",
                     }}
                 >
                     <h1

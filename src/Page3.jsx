@@ -24,7 +24,7 @@ const Page3 = () => {
                 <div
                     style={{
                         textAlign: "center",
-                        padding: "1rem",
+                        padding: "8rem",
                         height: "90vh",
                         color: "white",
                     }}
@@ -39,7 +39,7 @@ const Page3 = () => {
                     >
                         Vision
                     </h1>
-                    <div style={{ height: "60vh", overflow: "auto" }}>
+                    <div style={{ height: "90vh", overflow: "auto" }}>
                         <div
                             style={{
                                 fontFamily: "Kanit",
